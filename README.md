@@ -31,6 +31,11 @@ Optamos pelo **SQLite (`expo-sqlite`)** em detrimento do AsyncStorage pelos segu
 3. **Integridade de Dados:** O banco relacional garante tipos de dados estritos (`REAL`, `TEXT`, `INTEGER`), evitando falhas de conversão de tipos comuns ao salvar JSONs simples em chave-valor.
 
 ---
+##
+
+npx lint-staged
+
+---
 
 ## 🏗️ Arquitetura e Estrutura de Pastas
 
